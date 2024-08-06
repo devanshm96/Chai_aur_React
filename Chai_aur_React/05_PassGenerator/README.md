@@ -1,4 +1,4 @@
-A minimal password generator that uses Math.rand() function to generate passwords in the background.   
+A minimal password generator that uses Math.random() function to generate passwords in the background.   
 ![image](https://github.com/user-attachments/assets/b09eb433-99f6-45c0-a778-795f75cd3451)
 
 - Use the slider to adjust the length of password from minimum length of 4 till 50. 
